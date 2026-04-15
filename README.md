@@ -29,6 +29,11 @@ python filename.py
 
 This project is created to learn Python basics and improve problem-solving skills through simple programs.
 
+---
+
+## 📂 Project Structure
+
+```text
 Python/
 │
 ├── patterns/
@@ -46,8 +51,7 @@ Python/
 │   ├── triangle.py
 │
 └── README.md
-
----
+```
 
 ## 🚀 Future Improvements
 
